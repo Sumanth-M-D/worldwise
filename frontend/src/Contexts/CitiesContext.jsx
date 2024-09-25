@@ -1,7 +1,8 @@
 import { useCallback } from "react";
 import { useContext, createContext, useEffect, useReducer } from "react";
 
-const BASE_URL = "http://localhost:3000";
+// const BASE_URL = "http://localhost:3000";
+const BASE_URL = "https://worldwise-xu30.onrender.com/";
 
 const CitiesContext = createContext();
 
